@@ -1,0 +1,6 @@
+.venv/ 
+__pycache__/ 
+*.pyc 
+ANVAYA/data/raw/ 
+ANVAYA/data/synthetic/ 
+ANVAYA/data/processed/ 
